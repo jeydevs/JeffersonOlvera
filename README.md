@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jefferson Olvera</h1>
-<h3 align="center">Full Stack Developer @ Kuantica Consulting Services | AI Virtual Agents & 3D Web Experiences</h3>
+<h3 align="center">Full Stack Developer | AI Virtual Agents & 3D Web Experiences</h3>
 
 <h2 align="left">🕹️ About me</h2>
 
