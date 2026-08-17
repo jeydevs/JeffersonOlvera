@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefferson Olvera</h1>
 <h3 align="center">Full Stack Developer @ Kuantica Consulting Services | AI Virtual Agents & 3D Web Experiences</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jeffersonolvera/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:olverasuarezjeff@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
 <h2 align="left">🕹️ About me</h2>
 
 <p align="left">
